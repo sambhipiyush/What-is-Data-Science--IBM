@@ -41,7 +41,7 @@ In this module, you will learn about the approaches companies can take to start 
 **Graded:** Final Assignment
 
 
-This course is part of the 'Key Technologies for Business Specialization'\
+This course is part of the **Key Technologies for Business Specialization**
 
 
 #### ***Kudos!!!***
