@@ -12,7 +12,7 @@ The art of uncovering the insights and trends in data has been around since anci
 
 ## Syllabus
 
-### WEEK 1
+### MODULE 1
 
 #### Defining Data Science and What Data Scientists Do
 
@@ -21,7 +21,7 @@ In this module, you will view the course syllabus to learn what will be taught i
 ***Graded:*** Data Science: The Sexiest Job in the 21st Century\
 ***Graded:*** What Makes Someone a Data Scientist?
 
-### WEEK 2
+### MODULE 2
 
 #### Data Science Topics
 
@@ -30,7 +30,7 @@ In this module, you will hear from Norman White, the Faculty Director of the Ste
 **Graded:** Data Mining\
 **Graded:** Regression
 
-### WEEK 3
+### MODULE 3
 
 #### Data Science in Business
 
