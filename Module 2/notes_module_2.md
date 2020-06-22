@@ -45,7 +45,7 @@ by IBM
 		* The main reason that people invest time to understand Big Data is to derive value from it
 		<p align="center">
 		  <a href="javascript:void(0)" rel="noopener">
-			 <img width=600px  src="notesImages/definition_big_data_image1.png" alt="definition_big_data_image1"></a>
+			 <img width=600px  src="notesImages/definition_big_data_image_1.png" alt="definition_big_data_image_1"></a>
 		</p>
 * **Velocity**: Every 60 seconds, hours of footage are uploaded to YouTube which is generating data. Think about how quickly data accumulates over hours, days, and years
 * **Volume**: The world population is approximately seven billion people and the vast majority are now using digital devices; mobile phones, desktop and laptop computers, wearable devices, and so on
